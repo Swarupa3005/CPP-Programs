@@ -16,16 +16,17 @@ This repository contains various Data Structures and Algorithms (DSA) programs i
 ## 3. Programs Included
 
 The repository contains the following programs:
-Operator overloading for complex number
-Linear search algorithm
-Binary search algorithm
-Bubble sort algorithm
-Singly linkedlist
-Stack using array
-Stack using linkedlist
-Queue using array
-Queue using linkedlist
-postfix exepression
+Operator overloading for complex number,
+Linear search algorithm,
+Binary search algorithm,
+Bubble sort algorithm,
+Singly linkedlist,
+Stack using array,
+Stack using linkedlist,
+Queue using array,
+Queue using linkedlist,
+postfix exepression,
+Music playlist manager using doubly linked list 
 
 ## 4. Instructions
 
